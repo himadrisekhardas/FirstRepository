@@ -47,6 +47,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.CodeCoverage": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
             "NuGet.Frameworks": {
               "target": "Package",
               "version": "[5.11.0, )"
@@ -132,7 +140,11 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.9.4, )"
+              "version": "[16.11.0, )"
+            },
+            "NuGet.Frameworks": {
+              "target": "Package",
+              "version": "[5.11.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
