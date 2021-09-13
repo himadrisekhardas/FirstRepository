@@ -63,6 +63,10 @@
               "target": "Package",
               "version": "[16.11.0, )"
             },
+            "NuGet.Frameworks": {
+              "target": "Package",
+              "version": "[5.11.0, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.0.2, )"

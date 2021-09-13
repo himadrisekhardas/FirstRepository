@@ -12,5 +12,4 @@ C:\Users\Manti\source\repos\HelloAppCore3\HelloAppCore3\obj\Debug\netcoreapp3.1\
 C:\Users\Manti\source\repos\HelloAppCore3\HelloAppCore3\obj\Debug\netcoreapp3.1\HelloAppCore3.pdb
 C:\Users\Manti\source\repos\HelloAppCore3\HelloAppCore3\obj\Debug\netcoreapp3.1\HelloAppCore3.genruntimeconfig.cache
 C:\Users\Manti\source\repos\HelloAppCore3\HelloAppCore3\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\Manti\source\repos\HelloAppCore3\HelloAppCore3\obj\Debug\netcoreapp3.1\HelloAppCore3.csproj.AssemblyReference.cache
 C:\Users\Manti\source\repos\HelloAppCore3\HelloAppCore3\obj\Debug\netcoreapp3.1\HelloAppCore3.csproj.CopyComplete
