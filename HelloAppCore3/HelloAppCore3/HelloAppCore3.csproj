@@ -5,8 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <PackageReference Include="MSTest.TestFramework" Version="2.2.7" />
-  </ItemGroup>
+  </ItemGroup>-->
 
 </Project>
