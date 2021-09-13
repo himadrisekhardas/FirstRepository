@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lrsfQ/VkCJ/B6e4B4qUO7DWZ1ETRA8z2HttWJ3QTHwrhfn5uu215TM7uK9y+iakotMjRecm9DCgORk17izBXHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manti\\source\\repos\\HelloAppCore3\\HelloAppCore3\\HelloAppCore3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manti\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
