@@ -104,4 +104,3 @@ C:\Users\Manti\source\repos\HelloAppCore5\HelloAppTest\obj\Debug\net5.0\HelloApp
 C:\Users\Manti\source\repos\HelloAppCore5\HelloAppTest\obj\Debug\net5.0\ref\HelloAppTest.dll
 C:\Users\Manti\source\repos\HelloAppCore5\HelloAppTest\obj\Debug\net5.0\HelloAppTest.pdb
 C:\Users\Manti\source\repos\HelloAppCore5\HelloAppTest\obj\Debug\net5.0\HelloAppTest.genruntimeconfig.cache
-C:\Users\Manti\source\repos\HelloAppCore5\HelloAppTest\bin\Debug\net5.0\System.Reflection.Metadata.dll
