@@ -13,4 +13,3 @@ C:\Users\Manti\source\repos\HelloAppCore5\HelloAppCore5\obj\Debug\net5.0\HelloAp
 C:\Users\Manti\source\repos\HelloAppCore5\HelloAppCore5\obj\Debug\net5.0\ref\HelloAppCore5.dll
 C:\Users\Manti\source\repos\HelloAppCore5\HelloAppCore5\obj\Debug\net5.0\HelloAppCore5.pdb
 C:\Users\Manti\source\repos\HelloAppCore5\HelloAppCore5\obj\Debug\net5.0\HelloAppCore5.genruntimeconfig.cache
-C:\Users\Manti\source\repos\HelloAppCore5\HelloAppCore5\obj\Debug\net5.0\HelloAppCore5.csproj.AssemblyReference.cache
